@@ -68,4 +68,4 @@ Bright Data 的代理来源合规，并遵守所有相关的数据保护法律�
 我们的支持团队 24/7 全天候为您服务。欢迎联系我们，讨论您的需求，并充分利用我们的亚马逊代理网络。
 
 想要抓取亚马逊数据？
-查看 Bright Data 的 [**亚马逊抓取工具**](https://www.bright.cn/products/web-scraper/amazon)。
+查看 Bright Data 的 [**亚马逊爬虫工具**](https://www.bright.cn/products/web-scraper/amazon)。
